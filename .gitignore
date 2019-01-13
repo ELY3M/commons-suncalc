@@ -1,3 +1,6 @@
+!files
+/!files/
+git.txt
 .classpath
 .settings
 target
